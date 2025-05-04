@@ -1,6 +1,10 @@
 # OliversAD400AppMilestone
 Repo for Oliver's Project Management Milestone Assignment 
 
+You can watch the video in this repo for a breakdown or watch it on Youtube here: https://youtu.be/X912VT_FUoQ
+A visual of the milestones are also attached as well as a document detailing the milestones.
+
+
 Oliver’s App Launch 
 Project Milestones Defined
 
